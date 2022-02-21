@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![Bukunmitanimonure](https://circleci.com/gh/Bukunmitanimonure/DevOps_Microservices_Udacity.svg?style=svg)](https://app.circleci.com/pipelines/github/Bukunmitanimonure/DevOps_Microservices_Udacity)
 
 ## Project Overview
 
